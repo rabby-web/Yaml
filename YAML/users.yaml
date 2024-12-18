@@ -1,0 +1,16 @@
+name: Moshfiqur Rahman
+age: 30
+price: 99.99
+isActive: true
+user:
+  name: Moshfiqur Rahman
+  age: 24
+colors: 
+  - Red
+  - Green
+  - Yellow
+users:
+  - name: Alice
+    age: 24
+  - name: Jhon
+    age: 33

@@ -1,0 +1,30 @@
+users:
+  - id: 1
+    name: John Doe
+    email: john.doe@example.com
+    roles:
+      - admin
+      - editor
+    settings:
+      theme: dark
+      notifications:
+        email: true
+        sms: false
+        push: true
+    preferences:
+      language: en
+      timezone: GMT+5:30
+  - id: 2
+    name: Jane Smith
+    email: jane.smith@example.com
+    roles:
+      - viewer
+    settings:
+      theme: light
+      notifications:
+        email: true
+        sms: true
+        push: false
+    preferences: 
+      language: fr
+      timezone: GMT-4.00

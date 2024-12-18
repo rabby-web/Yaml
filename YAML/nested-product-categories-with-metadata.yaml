@@ -1,0 +1,39 @@
+categories:
+  - id: C1
+    name: Electronics
+    description: Devices and gadgets
+    subcategories:
+      - id: C1-1
+        name: Mobile Phones
+        products:
+          - id: P101
+            name: Smartphone X
+            brand: TechCorp
+            price: 799.99
+            specs:
+              screen: 6.5 inch
+              battery: 4000mAh
+              storage: 128GB
+          - id: P102
+            name: Smartphone Y
+            brand: GigaTech
+            price: 599.99
+            specs:
+              screen: 6.1 inch
+              battery: 3500mAh
+              storage: 64GB
+  - id: C2
+    name: Appliances
+    description: Home and kitchen appliances
+    subcategories:
+      - id: C2-1
+        name: Refrigerators
+        products:
+          - id: P201
+            name: FrostFree 300
+            brand: HomeEssentials
+            price: 899.99
+            specs:
+              capacity: 300L
+              energy_rating: 4 stars
+              type: Double Door
